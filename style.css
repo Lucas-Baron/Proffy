@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --primary-color: #8257E5;
+    --green-color: #04D361;
+}
+
+body{
+    background-color: #8257E5;
+}
