@@ -36,7 +36,6 @@ body{
 }
 
 body{
-    background-color: var(--color-primary);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -53,6 +52,7 @@ textarea{
 #container{
     width: 90vw;
     max-width: 700px;
+    background-color: var(--color-primary);
 }
 
 @media (min-width: 700px){
